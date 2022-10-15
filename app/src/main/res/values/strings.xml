@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week4Retrofit</string>
+    <string name="nul_data">-</string>
+    <string name="image_description">ini adalah gambar</string>
+</resources>
